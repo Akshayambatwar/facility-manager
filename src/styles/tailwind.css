@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------- Global form reset ---------- */
+@layer base {
+  input,
+  textarea,
+  select,
+  button {
+    @apply outline-none focus:outline-none focus:ring-0 bg-transparent;
+  }
+
+  input,
+  textarea,
+  select {
+    @apply border border-gray-300 rounded px-2 py-1 text-sm;
+  }
+
+  textarea {
+    @apply resize-none;
+  }
+
+  button {
+    @apply cursor-pointer;
+  }
+}
