@@ -4,9 +4,7 @@ export type Permission =
   | 'FACILITY_CREATE'
   | 'FACILITY_EDIT'
   | 'FACILITY_DELETE'
-  | 'FACILITY_VIEW'
-  | 'DOC_UPLOAD'
-  | 'DOC_DELETE';
+  | 'FACILITY_VIEW';
 
 
 import type { UserRole } from './role.types';
@@ -19,11 +17,9 @@ export const PERMISSIONS: Record<UserRole, readonly Permission[]> = {
     'FACILITY_EDIT',
     'FACILITY_DELETE',
     'FACILITY_VIEW',
-    'DOC_UPLOAD',
-    'DOC_DELETE',
   ],
   // Operations users have limited permission
-  OPS: ['FACILITY_VIEW', 'DOC_UPLOAD'],
+  OPS: ['FACILITY_VIEW'],
 
   // VIEWER is read-only
   VIEWER: ['FACILITY_VIEW']

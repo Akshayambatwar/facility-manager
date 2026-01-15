@@ -32,8 +32,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 25000,
     carpetAreaSqFt: 18000,
-    createdAt: '2021-06-10',
-    updatedAt: '2024-01-01',
   },
   {
     id: '2',
@@ -66,8 +64,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 18000,
     carpetAreaSqFt: 14000,
-    createdAt: '2022-03-05',
-    updatedAt: '2023-12-10',
   },
   {
     id: '3',
@@ -100,8 +96,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 32000,
     carpetAreaSqFt: 24000,
-    createdAt: '2020-08-20',
-    updatedAt: '2024-01-05',
   },
   {
     id: '4',
@@ -134,8 +128,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 20000,
     carpetAreaSqFt: 15500,
-    createdAt: '2021-09-15',
-    updatedAt: '2023-11-20',
   },
   {
     id: '5',
@@ -168,8 +160,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 15000,
     carpetAreaSqFt: 11000,
-    createdAt: '2022-01-12',
-    updatedAt: '2023-12-15',
   },
   {
     id: '6',
@@ -202,8 +192,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 28000,
     carpetAreaSqFt: 21000,
-    createdAt: '2021-03-25',
-    updatedAt: '2024-01-10',
   },
   {
     id: '7',
@@ -236,8 +224,7 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 22000,
     carpetAreaSqFt: 17000,
-    createdAt: '2020-11-18',
-    updatedAt: '2023-12-28',
+
   },
   {
     id: '8',
@@ -270,8 +257,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '2023-10-15',
     builtUpAreaSqFt: 16000,
     carpetAreaSqFt: 12500,
-    createdAt: '2021-07-08',
-    updatedAt: '2023-10-15',
   },
   {
     id: '9',
@@ -304,8 +289,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 13000,
     carpetAreaSqFt: 10000,
-    createdAt: '2022-05-20',
-    updatedAt: '2023-11-05',
   },
   {
     id: '10',
@@ -338,8 +321,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 19000,
     carpetAreaSqFt: 14500,
-    createdAt: '2021-12-01',
-    updatedAt: '2023-12-20',
   },
   {
     id: '11',
@@ -372,8 +353,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 17500,
     carpetAreaSqFt: 13500,
-    createdAt: '2022-08-14',
-    updatedAt: '2023-10-30',
   },
   {
     id: '12',
@@ -406,8 +385,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 21000,
     carpetAreaSqFt: 16000,
-    createdAt: '2021-04-10',
-    updatedAt: '2023-12-05',
   },
   {
     id: '13',
@@ -440,8 +417,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 12000,
     carpetAreaSqFt: 9500,
-    createdAt: '2022-10-05',
-    updatedAt: '2023-11-18',
   },
   {
     id: '14',
@@ -474,8 +449,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 24000,
     carpetAreaSqFt: 18500,
-    createdAt: '2020-09-22',
-    updatedAt: '2023-12-12',
   },
   {
     id: '15',
@@ -508,7 +481,6 @@ export const facilitiesMock: Facility[] = [
     closureDate: '',
     builtUpAreaSqFt: 14000,
     carpetAreaSqFt: 11000,
-    createdAt: '2023-02-14',
-    updatedAt: '2023-12-01',
+
   },
 ];
