@@ -23,8 +23,8 @@
 ### Steps to run locally
 
 ```bash
-git clone <repository-url>
-cd facility-management
+git clone https://github.com/Akshayambatwar/facility-manager.git
+cd facility-manager
 npm install
 npm run dev
 ```
